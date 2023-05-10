@@ -38,6 +38,7 @@ Credit card transaction analysis involves using machine learning algorithms to i
 <a name="Research"></a>
 ## Research Paper
 A research paper has been submitted to IEEE through a conference conducted by Bangalore Institute of Technology on the 20th of April through Poster presentation.
+<a href="https://github.com/spavan2812/CipherSentry/blob/main/Research%20Paper.pdf">Click to view Paper</a>
 
 <a name="Future"></a>
 ## Future Enhancements
