@@ -1,0 +1,30 @@
+import streamlit as st
+from twilio.rest import Client
+
+# Twilio account information
+TWILIO_ACCOUNT_SID = "your_account_sid"
+TWILIO_AUTH_TOKEN = "your_auth_token"
+TWILIO_PHONE_NUMBER = "your_twilio_phone_number"
+
+# Initialize Twilio client
+client = Client(TWILIO_ACCOUNT_SID, TWILIO_AUTH_TOKEN)
+
+
+# Phone number input
+phone_number = st.text_input("Enter the phone number to send SMS to (with country code)")
+
+# SMS message input
+sms_message = 'Dear Customer, Your transaction of'+amt+'dollars was flagged as fraudulent. if it was not done by you, contact your bank IMMEDIATELY'
+
+# Send SMS button
+if st.button("Send SMS"):
+    try:
+        # Send the SMS
+        message = client.messages.create(
+            to=phone_number,
+            from_=TWILIO_PHONE_NUMBER,
+            body=sms_message
+        )
+        st.success("SMS sent successfully!")
+    except Exception as e:
+        st.error(f"Error sending SMS: {str(e)}")
