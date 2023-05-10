@@ -19,11 +19,11 @@ CipherSentry is a machine learning-powered web app built with Streamlit. It prov
 ## What is Machine Learning 
 Machine learning is a subfield of artificial intelligence that uses statistical techniques to give computer systems the ability to "learn" from data, without being explicitly programmed. In CipherSentry, machine learning algorithms are used to analyze patterns in credit card transactions and identify potentially fraudulent activity.
 
-<a name = "Streamlit"</a>
+<a name = "Streamlit"></a>
 ## What is Streamlit
 Streamlit is an open-source Python library that makes it easy to create interactive web apps and data visualizations. CipherSentry uses Streamlit to create a user-friendly interface for users to input and analyze data related to credit card transactions and cybersecurity.
 
-<a name="Abstract"</a>
+<a name="Abstract"></a>
 ## Cybersecurity
 Cybersecurity refers to the practice of protecting computer systems, networks, and sensitive information from unauthorized access, theft, or damage. In the digital age, cybersecurity is essential to protect against cyber attacks, data breaches, and other forms of cybercrime. CipherSentry helps enhance cybersecurity by providing fraud URL detection and credit card transaction analysis.
 
