@@ -1,5 +1,5 @@
 # CipherSentry
-
+## This application uses Streamlit, Python, SQLLite3 and hints of CSS and Base64
 ## Table of Contents
 - [ CipherSentry ](#CipherSentry)
 - [ Introduction to ML ](#Introduction0)
