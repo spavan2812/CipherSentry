@@ -48,7 +48,7 @@ The future enhancements for this project can be :
 - Email feature for the same
 - More security tools integrated with the app
 
-<a name="Output"</a>
+<a name="Output"></a>
 ## Output Screenshots
 Here are the screenshots of the Application
 #### Home Page
