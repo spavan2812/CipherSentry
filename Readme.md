@@ -50,13 +50,13 @@ The future enhancements for this project can be :
 ## Output Screenshots
 Here are the screenshots of the Application
 #### Home Page
-![Home Page]("D:\CipherSentry\Screenshots\Credit Card Benign.png")
+![Home Page]
 #### SignIn page
-![Sign In page](https://user-images.githubusercontent.com/65915759/184121830-19317a91-64a1-4849-836c-06398cc6c034
+![Sign In page]
 #### Login Page
-![Login Page](https://user-images.githubusercontent.com/65915759/184121822-c7c7a4ab-32c1-4f5e-9198-7b6bf737628
+![Login Page]
 #### Credit Card Fraud
-![Credit Card Fraud](https://user-images.githubusercontent.com/65915759/184121823-6bc77ca7-4617-42d6-a43c-0fdb3d39d24e
+![Credit Card Fraud]
 #### Credit Card Benign
 ![Credit Card Benign](https://user-images.githubusercontent.com/65915759/184121828-daa81399-d513-431d-81b5-87e8e1ada252
 #### URL Benign
