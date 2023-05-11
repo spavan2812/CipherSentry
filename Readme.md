@@ -9,6 +9,7 @@
 - [ Credit Card Transaction ](#Introduction2)
 - [ Research paper ](#Research)
 - [ Future Enhancements ](#Future)
+- [ Output Screenshots ](#Output)
 
 
 <a name = "CipherSentry"></a>
@@ -47,22 +48,23 @@ The future enhancements for this project can be :
 - Email feature for the same
 - More security tools integrated with the app
 
+<a name="Output"</a>
 ## Output Screenshots
 Here are the screenshots of the Application
 #### Home Page
-![Home Page]
+![Home Page](https://github.com/spavan2812/CipherSentry/blob/master/Home%20Page.png)
 #### SignIn page
-![Sign In page]
+![Sign In page](https://github.com/spavan2812/CipherSentry/blob/master/Sign%20In%20Page.png)
 #### Login Page
-![Login Page]
+![Login Page](https://github.com/spavan2812/CipherSentry/blob/master/Login%20Page.png)
 #### Credit Card Fraud
-![Credit Card Fraud]
+![Credit Card Fraud](https://github.com/spavan2812/CipherSentry/blob/master/Credit%20Card%20fraud.png)
 #### Credit Card Benign
-![Credit Card Benign](https://user-images.githubusercontent.com/65915759/184121828-daa81399-d513-431d-81b5-87e8e1ada252
+![Credit Card Benign](https://github.com/spavan2812/CipherSentry/blob/master/Credit%20Card%20Benign.png)
 #### URL Benign
-![URL Benign](https://user-images.githubusercontent.com/65915759/184121816-dce65140-3dae-497e-b0cb-c52f4960f223
+![URL Benign](https://github.com/spavan2812/CipherSentry/blob/master/URL%20Benign.png)
 #### URL Malicious
-![URL Malicious](https://user-images.githubusercontent.com/65915759/184121816-dce65140-3dae-497e-b0cb-c52f4960f
+![URL Malicious](https://github.com/spavan2812/CipherSentry/blob/master/URL%20Malicious.png)
 
 
 ## Credits
