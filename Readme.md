@@ -47,6 +47,23 @@ The future enhancements for this project can be :
 - Email feature for the same
 - More security tools integrated with the app
 
+## Output Screenshots
+Here are the screenshots of the Application
+#### Home Page
+![Home Page](https://user-images.githubusercontent.com/65915759/184121836-dce0ba2a-4697-47fe-ad97-fda14e4fc84b.png)
+#### SignIn page
+![Sign In page](https://user-images.githubusercontent.com/65915759/184121830-19317a91-64a1-4849-836c-06398cc6c034.png)
+#### Login Page
+![Login Page](https://user-images.githubusercontent.com/65915759/184121822-c7c7a4ab-32c1-4f5e-9198-7b6bf7376286.png)
+#### Credit Card Fraud
+![Credit Card Fraud](https://user-images.githubusercontent.com/65915759/184121823-6bc77ca7-4617-42d6-a43c-0fdb3d39d24e.png)
+#### Credit Card Benign
+![Credit Card Benign](https://user-images.githubusercontent.com/65915759/184121828-daa81399-d513-431d-81b5-87e8e1ada252.png)
+#### URL Benign
+![URL Benign](https://user-images.githubusercontent.com/65915759/184121816-dce65140-3dae-497e-b0cb-c52f4960f223.png)
+#### URL Malicious
+![URL Malicious](https://user-images.githubusercontent.com/65915759/184121816-dce65140-3dae-497e-b0cb-c52f4960f223.png)
+
 
 ## Credits
 #### Credits to all my peers Rohan Sujay, Yusuf Mohammed Khan and Rohan B for helping in the success of this project. (BNMIT, Dept. of CSE, 2019-2023)
